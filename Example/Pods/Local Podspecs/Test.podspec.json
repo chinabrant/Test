@@ -1,9 +1,9 @@
 {
   "name": "Test",
   "version": "0.1.0",
-  "summary": "A short description of Test.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/issac/Test",
+  "summary": "testtestst",
+  "description": "kldjaldjg;alfjg;lsfjgljklkjwfjldgj",
+  "homepage": "https://github.com/chinabrant/Test",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "issac": "wzx0825@gmail.com"
   },
   "source": {
-    "git": "https://github.com/issac/Test.git",
+    "git": "https://github.com/chinabrant/Test.git",
     "tag": "0.1.0"
   },
   "platforms": {

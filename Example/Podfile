@@ -1,7 +1,10 @@
 use_frameworks!
 
+source 'https://github.com/chinabrant/TestSpecs.git'  # 自己的源
+source 'https://github.com/CocoaPods/Specs.git'  # 官方源
+
 target 'Test_Example' do
-  pod 'Test', :path => '../'
+    pod 'Test' , :path => '../'
 
   target 'Test_Tests' do
     inherit! :search_paths

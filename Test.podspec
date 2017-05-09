@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 kldjaldjg;alfjg;lsfjgljklkjwfjldgj
                        DESC
 
-  s.homepage         = 'https://github.com/issac/Test'
+  s.homepage         = 'https://github.com/chinabrant/Test'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'issac' => 'wzx0825@gmail.com' }
